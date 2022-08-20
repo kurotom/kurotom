@@ -1,8 +1,8 @@
-# Kurotom - Tomás Valdivia Fuentes
+# Tomás Valdivia Fuentes - Kurotom
 
 👋 Hola a todos, bienvenidos a mi repositorio Github. 👋
 
-## Acerca de mi.
+## Acerca de mi
 
 Estoy realmente interesado en la programación, me gusta crear herramientas que sean útiles. Utilizo Python, además se JavaScript, me manejo con lenguaje SQL y Linux.
 
@@ -14,7 +14,14 @@ He incursionado en análisis de datos usando Python, Git. Sigo aprendiendo temas
 
 En tiempo libre, busco información para mejorar mis habilidades de programación y conocer nuevos temas.
 
-Mis gustos son el rock, heavy metal, música clásica, películas, videojuegos, programación.
+Mis gustos:
+* rock
+* heavy metal
+* música clásica
+* películas
+* videojuegos
+* programación
+
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/tomas-valdivia-fuentes-596420227)
 
