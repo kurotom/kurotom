@@ -16,7 +16,7 @@ En tiempo libre, busco información para mejorar mis habilidades de programació
 
 Mis gustos son el rock, heavy metal, música clásica, películas, videojuegos, programación.
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](linkedin.com/in/tomas-valdivia-fuentes-596420227)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/tomas-valdivia-fuentes-596420227)
 
 
 
