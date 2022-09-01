@@ -55,7 +55,7 @@ Estos proyectos los he creado para ejercitar mis habilidades de programación, a
 
 ### Web Development
 
-Backend: Python, Django, base de datos SQLite, PostgreSQL.
+Backend: Python, Django, base de datos SQLite, PostgreSQL.<br>
 Frontend: JavaScript, React, CSS, Bootstrap.
 
 * [MovieApp](https://github.com/kurotom/Portafolio_Web_Development/tree/movieApp)
