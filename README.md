@@ -51,6 +51,7 @@ Estos proyectos los he creado para ejercitar mis habilidades de programación, a
 * [Weather_app](https://github.com/kurotom/Portafolio_Web_Development/tree/weatherApp_react)
 * [Piano_app](https://github.com/kurotom/Portafolio_Web_Development/tree/piano_react)
 * [Calculator_app](https://github.com/kurotom/Portafolio_Web_Development/tree/calculator_react)
+* [Contador React Redux](https://github.com/kurotom/Portafolio_Web_Development/tree/contador_react_redux)
 
 
 ### Web Development
