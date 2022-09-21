@@ -42,8 +42,8 @@ Estos proyectos los he creado para ejercitar mis habilidades de programación, a
 * [Html_to_PDF](https://github.com/kurotom/proyectos_varios/tree/main/Html_to_PDF)
 * [Merge_PDF_GUI](https://github.com/kurotom/proyectos_varios/tree/main/Merge_PDF_GUI)
 * [Tic_Tac_Toe](https://github.com/kurotom/proyectos_varios/tree/main/Tic_Tac_Toe)
-* [Fixing - enquefase_scraping - covid project](https://github.com/kurotom/proyectos_varios/tree/main/enquefase_scraping)
-* [Fixing - scraping_Sismologia_cl](https://github.com/kurotom/proyectos_varios/tree/main/scraping_Sismologia_cl)
+* [scraping_Sismologia_cl](https://github.com/kurotom/proyectos_varios/tree/main/scraping_Sismologia_cl)
+* :hourglass_flowing_sand: [Fixing - enquefase_scraping - covid project](https://github.com/kurotom/proyectos_varios/tree/main/enquefase_scraping) :hourglass_flowing_sand:
 
 
 ### Frontend
@@ -59,7 +59,7 @@ Estos proyectos los he creado para ejercitar mis habilidades de programación, a
 Backend: Python, Django, base de datos SQLite, PostgreSQL.<br>
 Frontend: JavaScript, React, CSS, Bootstrap.
 
-* :star2: [The Little Market - Ecommerce](https://github.com/kurotom/Portafolio_Web_Development/tree/thelittlemarket)
+* :star2: [The Little Market - Ecommerce](https://github.com/kurotom/Portafolio_Web_Development/tree/thelittlemarket) :star2:
 * [MovieApp](https://github.com/kurotom/Portafolio_Web_Development/tree/movieApp)
 * [WalletKeep](https://github.com/kurotom/Portafolio_Web_Development/tree/walletkeep)
 * [CompressPDF](https://github.com/kurotom/Portafolio_Web_Development/tree/compressPDF)
@@ -85,5 +85,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
