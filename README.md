@@ -25,6 +25,8 @@ Mis gustos:
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/tomas-valdivia-fuentes-596420227)
 
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/tomvalfue92)
+
 
 
 ## Mis proyectos
