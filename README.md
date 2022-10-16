@@ -8,7 +8,7 @@ Estoy realmente interesado en la programación, me gusta crear herramientas que 
 
 Utilizo framework Django para backend, React para frontend para el desarrollo web, además he utlizado base de datos como SQLite, PostgreSQL, MongoDB.
 
-Entre los proyectos que he realizado estan aplicaciones de escritorio usando Tkinter, scraping, desarrollo web utilizo PaaS como render.com y Heroku.
+Entre los proyectos que he realizado estan aplicaciones de escritorio usando Tkinter, web scraping, desarrollo web utilizo PaaS como render.com y Heroku.
 
 He incursionado en análisis de datos usando Python, Git. Sigo aprendiendo temas nuevos para poder superarme y salir de la zona de confort.
 
