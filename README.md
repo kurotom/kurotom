@@ -60,8 +60,9 @@ Estos proyectos los he creado para ejercitar mis habilidades de programación, a
 
 Backend: Python, Django, base de datos SQLite, PostgreSQL.<br>
 Frontend: JavaScript, React, CSS, Bootstrap.
-
+<!--
 * :star2: [The Little Market - Ecommerce](https://github.com/kurotom/Portafolio_Web_Development/tree/thelittlemarket) :star2:
+-->
 * [MovieApp](https://github.com/kurotom/Portafolio_Web_Development/tree/movieApp)
 * [WalletKeep](https://github.com/kurotom/Portafolio_Web_Development/tree/walletkeep)
 * [CompressPDF](https://github.com/kurotom/Portafolio_Web_Development/tree/compressPDF)
