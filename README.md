@@ -4,23 +4,23 @@
 
 ## Acerca de mi
 
-Estoy realmente interesado en la programación, me gusta crear herramientas que sean útiles. Utilizo Python, además se JavaScript, me manejo con lenguaje SQL y Linux.
+Interezado en la tecnología, formándome contínuamente, tengo conocimientos en lenguajes Python, JavaScript, últimamente Java, además de lenguaje SQL y sistema operativo Linux.
 
-Utilizo framework Django para backend, React para frontend para el desarrollo web, además he utlizado base de datos como SQLite, PostgreSQL, MongoDB.
+Utilizo framework Django (Python) para backend y React para frontend para el desarrollo web, además he utlizado base de datos como SQLite, PostgreSQL, MongoDB.
 
-Entre los proyectos que he realizado estan aplicaciones de escritorio usando Tkinter, web scraping, desarrollo web utilizo PaaS como render.com y Heroku.
+He realizado estan aplicaciones de escritorio usando Tkinter, web scraping, desarrollo web utilizo PaaS como Render.
 
-He incursionado en análisis de datos usando Python, Git. Sigo aprendiendo temas nuevos para poder superarme y salir de la zona de confort.
+Otros cursos: análisis de datos usando Python, Git.
 
-En tiempo libre, busco información para mejorar mis habilidades de programación y conocer nuevos temas.
+Últimamente complete la formación del programa [Oracle One - certificado](https://app.aluracursos.com/user/tomvalfue92/program/certificate), en el cual consolidé conocimientos Html, CSS, JavaScript, y aprendí lenguaje de programación Java.
 
 Mis gustos:
-* rock
-* heavy metal
-* música clásica
-* películas
-* videojuegos
-* programación
+* Rock.
+* Heavy metal.
+* Música clásica.
+* Ver películas.
+* Videojuegos.
+* Programación.
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/tomas-valdivia-fuentes-596420227)
@@ -31,7 +31,7 @@ Mis gustos:
 
 ## Mis proyectos
 
-Estos proyectos los he creado para ejercitar mis habilidades de programación, además de resolver algunos problemas que he tenido y quise darles solución.
+Algunos proyectos que he realizado.
 
 
 ### Desktop
@@ -60,15 +60,14 @@ Estos proyectos los he creado para ejercitar mis habilidades de programación, a
 
 Backend: Python, Django, base de datos SQLite, PostgreSQL.<br>
 Frontend: JavaScript, React, CSS, Bootstrap.
-<!--
-* :star2: [The Little Market - Ecommerce](https://github.com/kurotom/Portafolio_Web_Development/tree/thelittlemarket) :star2:
--->
+
 * [MovieApp](https://github.com/kurotom/Portafolio_Web_Development/tree/movieApp)
 * [WalletKeep](https://github.com/kurotom/Portafolio_Web_Development/tree/walletkeep)
 * [CompressPDF](https://github.com/kurotom/Portafolio_Web_Development/tree/compressPDF)
 * [Network App](https://github.com/kurotom/cs50W_proyectos/tree/main/network)
 * [Email App](https://github.com/kurotom/cs50W_proyectos/tree/main/mail)
 * [Auctions App](https://github.com/kurotom/cs50W_proyectos/tree/main/commerce)
+
 
 
 
