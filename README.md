@@ -21,11 +21,6 @@ Utilizo framework Django (Python) para backend y React para frontend para el des
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurotom" alt="kurotom" /></a> </p>
 
-
-<h4 style="font-weight: normal;">
-- 🌱 Adicionalmente, estoy aprendiendo <strong>Java</strong>, lentamente, pero de forma constante por curiosidad.
-</h4>
-
 <br />
 
 <h3>Contacto:</h3>
