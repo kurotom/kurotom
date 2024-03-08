@@ -2,20 +2,11 @@
 Hola 👋, mi nombre es <br><i>Tomás Valdivia Fuentes<br></i>
 </h1>
 
-<h3 align="center">
-<p>Interezado en la tecnología, formándome contínuamente.</p>
-
-<p>Tengo conocimientos en lenguajes Python, JavaScript, últimamente Java, además de lenguaje SQL y sistema operativo Linux.</p>
-</p>Todos los proyectos los construyo usando Python, lo considero mi lenguaje de programación principal.</p>
-
 <p>
-Utilizo framework Django (Python) para backend y React para frontend para el desarrollo web. En base de datos utilizo principalmente MySQL, PostgreSQL a veces MongoDB o SQLite.
+Bienvenido a mi repositorio, construyo herramientas de utilidad, por lo menos así lo considero, principalmente usando lenguaje Python. Tengo conocimientos en otros lenguajes como JavaScript y algo en Java.
+
+Incursionado en machine-learning (scikit-learn), desarrollo web (Django, React), y en general, temas que me interesan.
 </p>
-
-<p>Uso control de versiones <i>Git</i></p>
-
-<p>En aplicaciones de escritorio uso <i>Tkinter</i>, además tengo habilidades de web scraping.</p>
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurotom&label=Profile%20views&color=0e75b6&style=flat" alt="kurotom" /> </p>
 
@@ -23,20 +14,11 @@ Utilizo framework Django (Python) para backend y React para frontend para el des
 
 <br />
 
-<h3>Contacto:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/tomas-valdivia-fuentes-596420227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/tomas-valdivia-fuentes-596420227" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@tomvalfue92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomvalfue92" height="30" width="40" /></a>
-</p>
 
-
-
-<h3>Lenguajes y herramientas:</h3>
+<h3>Lenguajes y herramientas</h3>
 
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
@@ -61,14 +43,68 @@ Utilizo framework Django (Python) para backend y React para frontend para el des
 
 <br />
 
+<p>
+
+<h3>Recursos</h3>
+<ul>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/Documentacion_Notas">Documentación y Notas</a>
+  </li>
+  <p style="font-size: 14px">
+    Si te ayuda en algo mis notas que he investigado, dale una estrella ⭐, es más que suficiente para seguir.
+  </p>
+</ul>
+
+<h3>Proyectos</h3>
+<ul>
+
+  <li>
+    <a target="_blank" href=""https://github.com/kurotom/comicpy">comicpy</a>
+  </li>
+  <li>
+    <a target="_blank" href=""https://github.com/kurotom/linkedText">linkedText</a>
+  </li>
+  <li>
+    <a target="_blank" href=""https://github.com/kurotom/filesignaturecollectors">filesignaturecollectors</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/filesignature">filesignature</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/SrtPy">SrtPy</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/MyMemoPy">MyMemoPy</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/terminal-in-colors">terminal-in-colors</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/mimic_useragent">mimic_useragent</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/proyectos_varios">Proyectos Varios</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/kurotom/Bash_Scripts">Bash_Scripts</a>
+  </li>
+
+</ul>
+
+</p>
+
+
+
+
 <p align="center">
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurotom&show_icons=true&locale=es&layout=compact" alt="kurotom" />
--->
+ -->
 
 <br />
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kurotom&show_icons=true&locale=en" alt="kurotom" />
+
 </p>
