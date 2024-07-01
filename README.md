@@ -59,19 +59,16 @@ Incursionado en machine-learning (scikit-learn), desarrollo web (Django, React),
 <ul>
 
   <li>
-    <a target="_blank" href=""https://github.com/kurotom/comicpy">comicpy</a>
+    <a target="_blank" href="https://github.com/kurotom/comicpy">comicpy</a>
   </li>
   <li>
-    <a target="_blank" href=""https://github.com/kurotom/linkedText">linkedText</a>
+    <a target="_blank" href="https://github.com/kurotom/PDFMergeTK">PDFMergeTK</a>
   </li>
   <li>
-    <a target="_blank" href=""https://github.com/kurotom/filesignaturecollectors">filesignaturecollectors</a>
+    <a target="_blank" href="https://github.com/kurotom/filesignaturecollectors">filesignaturecollectors</a>
   </li>
   <li>
     <a target="_blank" href="https://github.com/kurotom/filesignature">filesignature</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://github.com/kurotom/SrtPy">SrtPy</a>
   </li>
   <li>
     <a target="_blank" href="https://github.com/kurotom/MyMemoPy">MyMemoPy</a>
@@ -84,9 +81,6 @@ Incursionado en machine-learning (scikit-learn), desarrollo web (Django, React),
   </li>
   <li>
     <a target="_blank" href="https://github.com/kurotom/proyectos_varios">Proyectos Varios</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://github.com/kurotom/Bash_Scripts">Bash_Scripts</a>
   </li>
 
 </ul>
