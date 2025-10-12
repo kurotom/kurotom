@@ -59,6 +59,14 @@ Incursionado en machine-learning (scikit-learn), desarrollo web (Django, React),
 
 <h3>Proyectos</h3>
 <ul>
+  <li>
+    <span>APIs</span>
+    <ul>
+      <li>
+        <a target="_blank" href="https://github.com/kurotom/airline_checkin_api">airline_checkin_api</a>
+      </li>
+    </ul>
+  </li>
 
   <li>
     <a target="_blank" href="https://github.com/kurotom/comicpy">comicpy</a>
